@@ -25,7 +25,7 @@ class Translation():
 
     def translate(self):
         translation = self.translator.translate(self.src, dest=self.dest)
-        self.glossary.add(self.src, translation.text)
+        # self.glossary.add(self.src, translation.text)
         print(translation.text)
 
 if __name__ == '__main__':
