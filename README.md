@@ -9,12 +9,10 @@ A quick Chinese<->English translation tool under terminal
 
 ### Installing
 ```
-pip install git+https://github.com/zhengxu001/easy_translation.git
+pip install easy-translation
 ```
 
 ![usage](assets/test-et.gif)
-
-+ Will push this project to pypi asap.
 
 ### Usage
 ```
