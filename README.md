@@ -8,12 +8,11 @@ A quick Chinese<->English translation tool under terminal
 + Get [python](https://www.python.org/) and pip(https://pypi.org/project/pip/) installed
 
 ### Installing
-
-![usage](assets/test-et.gif)
-
 ```
 pip install git+https://github.com/zhengxu001/easy_translation.git
 ```
+
+![usage](assets/test-et.gif)
 
 + Will push this project to pypi asap.
 
@@ -21,17 +20,13 @@ pip install git+https://github.com/zhengxu001/easy_translation.git
 ```
 ➜  ~ et 二氧化碳
 carbon dioxide
-➜  ~ et 支持华为
-Support Huawei
 ➜  ~ et origin
 起源
 ```
 
-
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 
 ## License
 
