@@ -2,15 +2,15 @@
 
 import sys
 from googletrans import Translator
-from glossary import Glossary
+# from glossary import Glossary
 
-glossary_path = './glossary.json'
+# glossary_path = './glossary.json'
 
 class Translation():
     def __init__(self, src):
         self.src = src
         self.translator = Translator()
-        self.glossary = Glossary(glossary_path)
+        # self.glossary = Glossary(glossary_path)
 
     @property
     def language(self):
